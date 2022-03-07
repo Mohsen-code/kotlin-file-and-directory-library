@@ -12,7 +12,7 @@ https://jitpack.io
 2. add library implementation to gradle dependencies
 ```groovy
 dependencies {
-    implementation 'com.github.Mohsen-code:kotlin-file-and-directory-library:1.0'
+    implementation 'com.github.Mohsen-code.kotlin-file-and-directory-library:KotlinFileAndFolderLibrary:1.0'
 }
 ```
 
